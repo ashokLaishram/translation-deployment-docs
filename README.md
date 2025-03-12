@@ -196,7 +196,7 @@ Example `.env`:
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=feedback_user
-DB_PASSWORD=feedback_password
+DB_PASSWORD=**********
 DB_NAME=feedback_db
 ```
 
